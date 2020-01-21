@@ -1,0 +1,18 @@
+/*
+ * Lao Sans Pro (Lao) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'BoonBaan';
+  font-style: normal;
+  font-weight: 400;
+  /* src: url('NotoSansLao-SemiCondensed.ttf') */
+  src: url('BoonBaan-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Noto Sans Lao UI';
+  font-style: normal;
+  font-weight: 700;
+  /* src: url('NotoSansLao-Bold.ttf') */
+  src: url('BoonBaan-Bold.ttf')
+}
